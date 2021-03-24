@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ########################################################################################################
 ###                                      v0.1 - 10th of May, 2020                                    ###
 ### This script sets up automated backup on a remote server for your local installation of Bookstack ###
